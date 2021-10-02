@@ -1,63 +1,43 @@
 # 加入我们
 
-&emsp;我们编写Blockly这本书，是想和大家一起学习和分享Google Blockly在编程和应用方面的乐趣，希望广大读者能帮住我们完善和指正教材中不足的地方，使这本书让更多的人受益。我们十分欢迎您能为我们提出宝贵的意见，互相借鉴和学习。<br>
+ 我们编写Blockly这本书，是想和大家一起学习和分享Google Blockly在编程和应用方面的乐趣，希望广大读者能帮住我们完善和指正教材中不足的地方，使这本书让更多的人受益。我们十分欢迎您能为我们提出宝贵的意见，互相借鉴和学习。  
+
 
 ## 如何进行cooc课程的建立以及合作创建在线课程
-&emsp;我们利用的是gitbook和github，gitbook实际上是一种呈现方式，就是以书籍的形式展现给大家，但是它自己本身不能进行合作和分工，如果添加这一部分内容还需借助github，github可以进行代码的托管，版本的控制，并且代码开源，我们如果想要协作创建课程，主要经过以下步骤：（我们以yinhang2和wxh121001这两个账户为例，yinhang2是书的创建者，wxh121001是合作人）<br>
-（1）yinhang2需要有github和gitbook账号，并在gitbook上创建一本书，然后在github中创建一个仓库，使这本书与这个仓库进行双向连接，双向连接的作用就是只要其中一放有变动，另一方都会监听从而同步。
-<center>
-<iframe frameborder="0" width="640" height="498"         src="https://v.qq.com/iframe/player.html?vid=y05079zxdun&tiny=0&auto=0" allowfullscreen></iframe>
-</center>
-（2）我们假如wxh121001是同事的话，那么yinhang2可以直接在github上添加collaborators就行了。但是如果wxh121001是同事，那么直接添加为writers这种行为就很危险，因为他有这个权限以后就可以随时更改书籍，而且可以不经过你的同意，因此，对于非同事，采用fork-pull request机制是非常安全的。
-<center>
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=x0507gsl8kw&tiny=0&auto=0" allowfullscreen></iframe>
-</center>
+
+ 我们利用的是gitbook和github，gitbook实际上是一种呈现方式，就是以书籍的形式展现给大家，但是它自己本身不能进行合作和分工，如果添加这一部分内容还需借助github，github可以进行代码的托管，版本的控制，并且代码开源，我们如果想要协作创建课程，主要经过以下步骤：（我们以yinhang2和wxh121001这两个账户为例，yinhang2是书的创建者，wxh121001是合作人）  
+ （1）yinhang2需要有github和gitbook账号，并在gitbook上创建一本书，然后在github中创建一个仓库，使这本书与这个仓库进行双向连接，双向连接的作用就是只要其中一放有变动，另一方都会监听从而同步。
+
+ （2）我们假如wxh121001是同事的话，那么yinhang2可以直接在github上添加collaborators就行了。但是如果wxh121001是同事，那么直接添加为writers这种行为就很危险，因为他有这个权限以后就可以随时更改书籍，而且可以不经过你的同意，因此，对于非同事，采用fork-pull request机制是非常安全的。
 
 ## 怎样在线评论和提出建议？
-&emsp;(1)如果您使用手机阅读：
-<center><img src="/assets/ga.png"/></center>
-<center><img src="/assets/gb.png"/></center>
-<center><img src="/assets/g10.png"/></center>
 
+ \(1\)如果您使用手机阅读：
 
-&emsp;进入评论区评论后，我们会尽快向您回复，您也可以建立讨论组和其他读者进行讨论。<br>
-&emsp;以上内容是对整个文章进行评论，您也可以在文章的指定位置进行评论：<br>
-&emsp;在手机上阅读时，翻到想要评论的位置，向左滑动手机屏幕，右方就会出现评论区：
-<center><img src="/assets/g11.png"/></center>
-&emsp;点击＋按钮，就可以进行评论了，post是提交评论；comment是对这条评论再进行评价；close是关闭这条评论，别人也就无法看到了；new thread是在这个位置创建一条新的评论。
-<center><img src="/assets/g12.png"/></center>
+ 进入评论区评论后，我们会尽快向您回复，您也可以建立讨论组和其他读者进行讨论。  
+  以上内容是对整个文章进行评论，您也可以在文章的指定位置进行评论：  
+  在手机上阅读时，翻到想要评论的位置，向左滑动手机屏幕，右方就会出现评论区：
 
+![](.gitbook/assets/g11.png)  点击＋按钮，就可以进行评论了，post是提交评论；comment是对这条评论再进行评价；close是关闭这条评论，别人也就无法看到了；new thread是在这个位置创建一条新的评论。![](.gitbook/assets/g12.png)
 
-
-&emsp;(2)如果您用电脑阅读：步骤基本是相同的。只不过在指定位置进行评论时，鼠标放到段落右侧就会自动出来“+”按钮。
-<center><img src="/assets/g13.png"/></center>
-
+ \(2\)如果您用电脑阅读：步骤基本是相同的。只不过在指定位置进行评论时，鼠标放到段落右侧就会自动出来“+”按钮。
 
 ## 如何和我们一起编写《跟我玩Blockly》
 
-(1)首先你要进入这本书的github地址：[https://github.com/yinhang2/-blockly](https://github.com/yinhang2/-blockly) （github实际上可以托管《跟我玩Blockly》这本书的代码，并提供代码下载功能）
+\(1\)首先你要进入这本书的github地址：[https://github.com/yinhang2/-blockly](https://github.com/yinhang2/-blockly) （github实际上可以托管《跟我玩Blockly》这本书的代码，并提供代码下载功能）
 
-(2)我们点击右上角的fork，这个fork实际上就是相当于把《跟我玩Blockly》这本书复制到你自己的账户下，然后你可以对其进行修改。
-<center><img src="/assets/t1.png"/></center>
+\(2\)我们点击右上角的fork，这个fork实际上就是相当于把《跟我玩Blockly》这本书复制到你自己的账户下，然后你可以对其进行修改。
 
-(3)现在你就相当于拥有这本书了，然后你需要创建一个新的分支，相当于拷贝一份，这样即使修改错了，你还有个主分支备份。
-<center><img src="/assets/g21.png"/></center>
+\(3\)现在你就相当于拥有这本书了，然后你需要创建一个新的分支，相当于拷贝一份，这样即使修改错了，你还有个主分支备份。
 
-(4)进入这个分支，你可以点进任何一章的代码文件对其进行修改，修改后拉到最下方提交。
-<center><img src="/assets/g22.png"/></center>
-<center><img src="/assets/g23.png"/></center>
-<center><img src="/assets/g24.png"/></center>
+\(4\)进入这个分支，你可以点进任何一章的代码文件对其进行修改，修改后拉到最下方提交。
 
-(5)这就相当于在你的《跟我玩Blockly》修改完成了，然后你可以将这些改进发给我们，重新回到你这本书的仓库（我们以weixh这个用户为例）：[https://github.com/weixh/-blockly](https://github.com/weixh/-blockly) ，先切换到我们刚才创建的weixh分支，然后提出合并请求：
-<center><img src="/assets/t2.png"/></center>
+\(5\)这就相当于在你的《跟我玩Blockly》修改完成了，然后你可以将这些改进发给我们，重新回到你这本书的仓库（我们以weixh这个用户为例）：[https://github.com/weixh/-blockly](https://github.com/weixh/-blockly) ，先切换到我们刚才创建的weixh分支，然后提出合并请求：
 
-(6)填写完信息后，点击“create pull request”
-<center><img src="/assets/g26.png"/></center>
+\(6\)填写完信息后，点击“create pull request”
 
-(7)您的修改内容就发给我们了（如下图所示），我们会尽快去查看，如果审核通过，就会将您修改的内容添加到《跟我玩Blockly》这本书中。
-<center><img src="/assets/g19.png"/></center>
+\(7\)您的修改内容就发给我们了（如下图所示），我们会尽快去查看，如果审核通过，就会将您修改的内容添加到《跟我玩Blockly》这本书中。
 
-&emsp;我们非常欢迎大家能为我们提出宝贵的意见，来共同协作完成《跟我玩Blockly》的开发。<br>
-<strong>视频教程:</strong>
-<center><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=y0504ll4zto&tiny=0&auto=0" allowfullscreen></iframe></center>
+ 我们非常欢迎大家能为我们提出宝贵的意见，来共同协作完成《跟我玩Blockly》的开发。  
+ **视频教程:**
 

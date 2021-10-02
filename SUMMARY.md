@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [简介](README.md)
 * [第一章 Google Blockly教学应用手册](chapter1.md)
