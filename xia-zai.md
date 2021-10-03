@@ -7,11 +7,3 @@
 培训课件下载：
 
 老师提供的资料下载：  [https://pan.baidu.com/s/1eRJkZy6](https://pan.baidu.com/s/1eRJkZy6)
-
-**三天课程内容：**  
-
-
-**第一天**
-
-**第二天第三天**
-
