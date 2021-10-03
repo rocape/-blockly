@@ -134,7 +134,7 @@
 |  1.![](.gitbook/assets/p91.png) |  2.![](.gitbook/assets/p92.png) |
 | :--- | :--- |
 |  3.![](.gitbook/assets/p93.png) |  4.![](.gitbook/assets/p94.png) |
-|  5.![](.gitbook/assets/p95.png) |  6.![](.gitbook/assets/p96.png) |
+|  5.![](.gitbook/assets/p95.png) |  6.![](.gitbook/assets/p100%20%281%29.png) |
 |  7.![](.gitbook/assets/p99.png) |  8.![](.gitbook/assets/p100.png) |
 |  9.![](.gitbook/assets/p97.png) |  10.![](.gitbook/assets/p98.png) |
 
