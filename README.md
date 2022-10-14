@@ -1,6 +1,6 @@
 # 简介
 
-![](.gitbook/assets/theme.png)
+![](.gitbook/assets/play_with_blockly.png)
 
 ## 前言
 
